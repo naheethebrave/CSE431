@@ -1,0 +1,12 @@
+Overleaf Link: https://www.overleaf.com/read/vthczcnfvfkv 
+
+Link to unlisted YouTube video:
+
+Public link to the slide: https://docs.google.com/presentation/d/1gQXHSs15QeRGTba44P5OcpSCif5oZL8LeWoEk0fR6fQ/edit?usp=sharing
+
+Paper title: Summarization of News Articles using BERT
+
+Group Number: 8
+
+20301057 Zawadul Kafi Nahee
+20301218 Sabrina Rahman Mazumder
