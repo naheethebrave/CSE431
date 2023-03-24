@@ -1,6 +1,6 @@
 Concept Map draw.io Link: https://app.diagrams.net/#G1qbfLBxY235mW7GF356MpmCWXBaBXoz9E
 
-Video: 
+Video: https://youtu.be/22hnczfkrFA
 
 Book Name: Speech and Language Processing (3rd ed. draft) - Dan Jurafsky and James H. Martin 
 
