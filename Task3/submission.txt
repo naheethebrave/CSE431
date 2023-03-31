@@ -6,7 +6,7 @@ Book Name: Speech and Language Processing (3rd ed. draft) - Dan Jurafsky and Jam
 
 Book Link: https://web.stanford.edu/~jurafsky/slp3/
 
-Book Chapter: Chapter 24 - Chatbots & Dialogue Systems
+Book Chapter: Chapter 15 - Chatbots & Dialogue Systems
 
 Book Chapter Link: https://web.stanford.edu/~jurafsky/slp3/24.pdf
 
