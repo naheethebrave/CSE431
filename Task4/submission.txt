@@ -2,21 +2,13 @@ Overleaf link with edit access to ST, RA and my gmail.
 https://www.overleaf.com/read/vthczcnfvfkv
 
 Unlisted YouTube video:
-
-Conference submitted paper / paper submission / login Link:
+https://youtu.be/ugQa0RmdWv8
 
 Paper title:
 Summarization of News Articles using BERT
 
 Paper presentation (anyone can view without login):
-
-Paper submission date (to workshop/conference):
-
-Paper submission ID: (received) from conference/workshop
-
-Conference Name:
-
-Conference URL:
+Used own paper
 
 Group Number:
 8
