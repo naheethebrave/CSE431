@@ -3,12 +3,19 @@ https://www.overleaf.com/read/vthczcnfvfkv
 
 Unlisted YouTube video:
 
+Conference submitted paper / paper submission / login Link:
+https://easy....
 
 Paper title:
 Summarization of News Articles using BERT
 
 Paper presentation (anyone can view without login):
 Used own paper
+
+Conference Name: 2023 IEEE 11th Region 10 Humanitarian Technology Conference (R10-HTC) - R10 HTC 2023 Track X: Machine
+
+Conference URL:
+https://www.r10htc2023.org/index.php?p=10
 
 Group Number:
 8
