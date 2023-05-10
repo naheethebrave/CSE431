@@ -5,7 +5,7 @@ Unlisted YouTube video:
 https://youtu.be/UrxrgAe2g1c
 
 Conference submitted paper / paper submission / login Link:
-https://edas.info/showPaper.php?m=1570909593
+https://edas.info/showPaper.php?m=1570912647
 
 Paper title:
 Bridging Language and Technology: A BERT-Based Approach to News Article Summarization
