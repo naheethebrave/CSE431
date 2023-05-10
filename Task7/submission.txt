@@ -7,13 +7,14 @@ Conference submitted paper / paper submission / login Link:
 https://edas.info/showPaper.php?m=1570909593
 
 Paper title:
-Summarization of News Articles using BERT
+Bridging Language and Technology: A BERT-Based Approach to News Article Summarization
+Summarization of News Articles using BERT(previous title)
 
 Paper presentation (anyone can view without login):
 Used own paper
 
 Paper Submission ID:
-1570909593
+#1570912647
 
 Conference Name:
 2023 IEEE 11th Region 10 Humanitarian Technology Conference (R10-HTC) - R10 HTC 2023 Track X: Machine Learning for Humanity
